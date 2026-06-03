@@ -2,7 +2,7 @@
 title: 'Keycloak으로 SSO 로그인 구현하기 (React + Spring Boot)'
 description: 'Docker로 Keycloak을 띄우고 React 프론트엔드와 Spring Boot 백엔드에 OAuth2 기반 SSO 로그인/로그아웃을 구현한 경험을 정리했습니다.'
 pubDate: '2026-06-03'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 사내 프로젝트에서 **Keycloak**을 이용해 SSO(Single Sign-On) 로그인을 구현했다.  
